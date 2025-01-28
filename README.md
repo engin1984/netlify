@@ -1,7 +1,7 @@
 # netlify
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bba8be2c-607d-4ab1-a2d7-6793f404b0bb/deploy-status)](https://app.netlify.com/sites/engins/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d833f3bc-9290-443a-89b4-e4d6d686f164/deploy-status)](https://app.netlify.com/sites/engins/deploys)
 
-[![Lint Code Base](https://github.com/engin1984/web/actions/workflows/super-linter.yml/badge.svg)](https://github.com/engin1984/web/actions/workflows/super-linter.yml)
+[![Lint Code Base](https://github.com/engin1984/netlify/actions/workflows/LintCodeBase.yml/badge.svg)](https://github.com/engin1984/netlify/actions/workflows/LintCodeBase.yml)
 
-[![CodeQL Advanced](https://github.com/engin1984/web/actions/workflows/codeql.yml/badge.svg)](https://github.com/engin1984/web/actions/workflows/codeql.yml)
+[![CodeQL Advanced](https://github.com/engin1984/netlify/actions/workflows/CodeQLAdvanced.yml/badge.svg)](https://github.com/engin1984/netlify/actions/workflows/CodeQLAdvanced.yml)
